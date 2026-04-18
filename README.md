@@ -40,14 +40,6 @@ A clean, modern React-based CRUD application designed to manage books efficientl
 
 ---
 
-##  Future Improvements
-- 🔍 Search & filter books  
-- ☁️ Backend integration (Node.js + MongoDB)  
-- 🔐 Authentication system  
-- 📊 Analytics dashboard  
-
----
-
 ## 👤 Author
 **Rinshad PR**  
 - GitHub: https://github.com/rinshadpr477-cell  
